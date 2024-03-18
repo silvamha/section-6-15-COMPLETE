@@ -29,6 +29,7 @@
 
 <script>
 import AppForm from "./components/Form.vue"
+import Form from "./components/Form.vue";
 
 export default {
   name: "App",
